@@ -1,6 +1,6 @@
 # NBA-Final-2019---Twitter-analysis
 
-Data Management Exam Project files.
+Data Management and Data Visualization Exam Project.
 
 **Streaming di Twitter.ipynb**: file to collect Twitter tweets in real time.
 
