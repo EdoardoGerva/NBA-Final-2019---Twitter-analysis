@@ -10,8 +10,6 @@ Data Management and Data Visualization Exam Project.
 
 **Occorrenze e Wordcloud.ipynb**: file used to perform further analysis on the data and to construct a wordcloud.
 
-**Infografiche e ai risultati dei test.url**: link to my Tableau profile with the results and infographics obtained.
-
 **Relazione.pdf**: report of the project (in italian).
 
 Infographics and results obtained can be visualized here: https://public.tableau.com/app/profile/edoardo.gervasoni#!/
