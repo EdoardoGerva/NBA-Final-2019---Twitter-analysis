@@ -11,3 +11,5 @@ Data Management Exam Project files.
 **Occorrenze e Wordcloud.ipynb**: file used to perform further analysis on the data and to construct a wordcloud.
 
 **Infografiche e ai risultati dei test.url**: link to my Tableau profile with the results and infographics obtained.
+
+**Relazione.pdf**: report of the project (in italian).
