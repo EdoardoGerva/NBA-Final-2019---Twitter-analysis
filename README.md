@@ -13,3 +13,5 @@ Data Management and Data Visualization Exam Project.
 **Infografiche e ai risultati dei test.url**: link to my Tableau profile with the results and infographics obtained.
 
 **Relazione.pdf**: report of the project (in italian).
+
+Infographics and results obtained can be visualized here: https://public.tableau.com/app/profile/edoardo.gervasoni#!/
